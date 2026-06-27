@@ -1,0 +1,63 @@
+---
+title: "Part 5 - GA4 Certification Exam Reflection"
+author: "Ian Hamada"
+date: "June 27, 2026"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+---
+
+# Proof of Completion
+
+Figure 1 shows proof that I successfully completed the Google Analytics Certification in 2026.
+
+![Figure 1: Google Analytics Certification proof](images/ga4-certification-proof.png)
+
+# Exam Reflection
+
+## Results Summary
+
+I successfully passed the Google Analytics Certification exam. The certificate confirms that I completed and am certified in Google Analytics Certification 2026. The final certificate does not show a numerical score, but it shows my completion status, issue date, expiration date, and certificate ID.
+
+Overall, the exam helped me connect the different GA4 topics from the course. It covered setup, reports, explorations, audiences, key events, advertising, attribution, integrations, privacy settings, BigQuery, and GA4 360 features. The exam made me realize that GA4 is not only about viewing reports. It is also about setting up measurement correctly so the data can support business decisions.
+
+## Top 3 Most Challenging Topics
+
+- **Attribution and advertising reports:** It was sometimes hard to remember how credit is assigned across different channels and how the Advertising workspace differs from standard acquisition reports.
+- **GA4 integrations:** Tools like Google Ads, Search Console, BigQuery, Measurement Protocol, Data Import, and the Data API all connect to GA4 in different ways.
+- **Data controls and privacy settings:** Topics like ads personalization, data retention, internal traffic filters, and data deletion required careful attention because each setting affects data differently.
+
+## Two Concepts I Would Redo
+
+One concept I would review again is the difference between **BigQuery export, Data API, Data Import, and Measurement Protocol**. They all involve using GA4 data outside the normal reports, but each one has a different purpose.
+
+Another concept I would redo is **attribution model reporting**. I understand the basic idea, but I want to be more confident about which reports are affected by attribution models and why numbers can differ between the Advertising workspace and standard reports.
+
+## CEP Connection
+
+For my CEP measurement and analysis plan, one thing I will change is making my KPI and supporting GA4 report more specific. Instead of only saying I will look at engagement or traffic, I will choose one main KPI and connect it to a specific report or exploration. This will make the project more actionable because I can explain what metric matters, where the data comes from, and how it supports the final recommendation.
+
+# GA4 Readiness Check
+
+For this readiness check, I used **Option B: Google Demo Account**.
+
+## KPI
+
+The KPI I selected is **Item revenue**.
+
+## Supporting Report
+
+The supporting report I selected is the **Monetization / Ecommerce purchases report** in Google Analytics.
+
+![Figure 2: GA4 readiness check screenshot](images/ga4-readiness-check.png)
+
+Item revenue supports the project goal because it shows which products are generating ecommerce value. The Ecommerce purchases report is useful because it connects product performance with business outcomes, such as which products generate revenue and which items users purchase. This helps turn GA4 data into a clearer recommendation about what products or user paths should be improved.
+
+# Final Summary
+
+Completing the GA4 Certification helped me understand GA4 as a full measurement system. The biggest takeaway is that analytics works best when the setup, reports, integrations, and business goals are connected. For my CEP, I need to choose a clear KPI, use the right GA4 report or exploration, and explain how the data supports a practical recommendation.
